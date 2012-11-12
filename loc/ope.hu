@@ -21,6 +21,9 @@
 	"opensource": "<p>Nyílt forráskód</p><p>Tekintse meg nyílt forráskodú projektjeinket <a href=\"https://github.com/opesun\" TARGET=\"_blank\">github</a>-on.</p>",
 	"activity": "<p>Mivel foglalkozunk még?</p><ul class=\"unstyled\"><li><a href=\"/articles?tag=it\">IT</a></li><li><a href=\"/furnitures\">Bútorok</a></li><li><a href=\"/articles?tag=events\">Rendezvények</a></li></ul>",
 	
+	"related_posts": "Kapcsolódó cikkek",
+	"other_cat": "Egyéb kategóriák",
+	
 	"home": "Főoldal",
 	"articles": "Cikkek",
 	

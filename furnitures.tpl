@@ -1,5 +1,4 @@
 {{require main_header.t}}
-
 {{$title := .loc.ope.furniture}}
 {{require small_header.t}}
 	<div id="above-nonmain" class="container">

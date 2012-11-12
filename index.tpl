@@ -16,7 +16,7 @@
 						</a>
 						<div class="caption">
 							<h3>{{.loc.ope.it}}</h3>
-							<p>
+							<p class="desc">
 								{{.loc.ope.it_desc}}
 							</p>
 							<p><a href="/articles?tag=it" class="btn btn-large">{{.loc.ope.more}}</a></p>
@@ -28,7 +28,7 @@
 						</a>
 						<div class="caption">
 							<h3>{{.loc.ope.furniture}}</h3>
-								<p>
+								<p class="desc">
 									{{.loc.ope.furniture_desc}}
 								</p>
 							<p><a href="/articles?tag=furnitures" class="btn btn-large">{{.loc.ope.more}}</a></p>
@@ -40,7 +40,7 @@
 						</a>
 						<div class="caption">
 							<h3>{{.loc.ope.event}}</h3>
-							<p>
+							<p class="desc">
 								{{.loc.ope.event_desc}}
 							</p>
 							<p><a href="/articles?tag=events" class="btn btn-large">{{.loc.ope.more}}</a></p>

@@ -14,6 +14,9 @@
 	"search": "Search", 
 	"click_and_type": "Click here and type",
 	
+	"related_posts": "Related posts",
+	"other_cat": "Other categories",
+		
 	"large_header_desc": "<h3>we love to create, be it <a href=\"/articles?tag=it\">software</a>, <a href=\"/articles?tag=furnitures\">furnitures</a> or <a href=\"articles?tag=events\">experiences</a></h3>",
 	"fork": "Fork us on GitHub",
 	
